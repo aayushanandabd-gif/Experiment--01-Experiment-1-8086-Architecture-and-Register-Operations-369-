@@ -192,6 +192,17 @@ Write an 8086 assembly language program to exchange the contents of two
     results.
 ## Screenshot of the results 
 
+part a answer-
+<img width="770" height="552" alt="image" src="https://github.com/user-attachments/assets/a2d1ebf9-0623-40fe-8bc5-d20c8623f757" />
+
+part b answer-
+<img width="770" height="524" alt="image" src="https://github.com/user-attachments/assets/3e22ad3a-9b14-4fae-a922-2ad185472d5c" />
+
+part c answer-
+<img width="770" height="524" alt="image" src="https://github.com/user-attachments/assets/dd5dab93-3fd8-454d-9c2b-221b932ac3b4" />
+
+
+
 
 
 ## Result
